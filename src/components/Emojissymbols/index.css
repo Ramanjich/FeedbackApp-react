@@ -1,0 +1,17 @@
+.items {
+  list-style-type: none;
+}
+.emojis-1 {
+  text-align: center;
+}
+
+.button {
+  border-style: solid;
+  border-width: 0px;
+  background-color: #ffffff;
+}
+
+.sad-style {
+  height: 50px;
+  width: 50px;
+}

@@ -1,0 +1,14 @@
+.love-response-con {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  font-family: Roboto;
+}
+.love-vard {
+  text-align: center;
+}
+.love-image {
+  height: 70px;
+  width: 70px;
+}
